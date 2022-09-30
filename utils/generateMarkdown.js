@@ -33,4 +33,19 @@ function renderLicenseBadge (license) {
     return licenseLink;
     }
     
+  // functions that returns the license
+  function renderLicenseSection(licnese){
+    let licenseSection =''
+    if(license === 'None'){
+        licenseSection =
+        `License: ${license}`
+    }
+    return licenseSection;
+    }
+
+    // Markdown for the README.md
+    function generateMarkdown(answer){
+        return`
+        `
+    }
   
