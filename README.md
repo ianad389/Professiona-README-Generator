@@ -27,6 +27,8 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 # Credits
+I follwed a youtube tutorila to help me for this assignent. down below is attached links to credit the author.
+
 https://www.youtube.com/user/IAmSlightlyConfused
 https://github.com/Miguel-Con-Queso
 
