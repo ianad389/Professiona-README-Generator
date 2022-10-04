@@ -7,7 +7,8 @@ I created 2 javascript files that are linked between eachother so that I can pul
 ![App Screenshot](/Screen%20Shot%202022-10-02%20at%201.39.08%20PM.png)
 
 # Video
-![App Screenshot](./Functioning%20Project.mov/Functioning%20Project.mov)
+![App Screenshot](/Functioning%20Project.mov/Functioning%20Project.mov)
+Video is attached in my github titled "added a snazzy video of my project"
 
 
 ## Acceptance Criteria
