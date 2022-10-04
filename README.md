@@ -6,6 +6,9 @@ I created 2 javascript files that are linked between eachother so that I can pul
 ![App Screenshot](/Screen%20Shot%202022-10-02%20at%201.38.56%20PM.png)
 ![App Screenshot](/Screen%20Shot%202022-10-02%20at%201.39.08%20PM.png)
 
+# Video
+![App Screenshot](/Functioning%20Project.mov)
+
 
 ## Acceptance Criteria
 
